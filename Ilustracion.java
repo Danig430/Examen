@@ -8,7 +8,7 @@ public static void multiplos(int numeroMax){
             System.out.println("Multiplo de 49: "+i);
 
         }
-        else if(i%100 == 01){
+        else if(i%100 == 013){
             System.out.println("Multiplo de 100: "+i);
         }
 
